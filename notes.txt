@@ -1,0 +1,6 @@
+Flask (jinja)⇒  create a separate folder , initially fixed the virtual environment to the python on the terminal  , open VS code on the  folder  and then “ python -m venv (project name)” 
+			⇒ install the flask on the terminal in the same folder using the terminal “ pip install flask “  and To ensure open a txt file on the same folder 
+“pip freeze > (file name)”
+Python (filename with extension) to run it 
+O/T:
+	It provide host link “ctlr + click “  the then it  takes to the  local host   
